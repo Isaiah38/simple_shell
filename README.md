@@ -13,7 +13,6 @@
  - **USAGE**
  - **Example of Usage**
  - **Bugs**
- - **TEAM**
  ****
 
 ## What is the shell?
